@@ -1,4 +1,4 @@
-# Deep Learning Models 🚀
+# Deep Learning Models 
 
 This repository contains my implementations of different **Deep Learning models** trained on various datasets.  
 Currently, it includes a **Pneumonia Detection Project** using **CNNs, VGG16, and ResNet50**.
